@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "username": "sudesh",
+  "password": "sudesh@123",
+  "email": "sudesh@gmail.com",
+  "firstName": "sudesh",
+  "lastName": "gowda",
+  "gender": "male",
+  "expiresInMins": 30,
+  "image": "https://dummyjson.com/icon/emilys/128",
+  "token": "mocked_token_12345",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+}
